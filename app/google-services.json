@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178122814551",
+    "project_id": "t0-do-app-2efdb",
+    "storage_bucket": "t0-do-app-2efdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178122814551:android:324f24b3d1c521b6de5f12",
+        "android_client_info": {
+          "package_name": "com.difl.to_doapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178122814551-6c6mntd71e6ojkk85dh1ee0gphe7skkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSHO7shqkwmE1qQl6x4NM3cdBh8AFtbzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178122814551-6c6mntd71e6ojkk85dh1ee0gphe7skkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
